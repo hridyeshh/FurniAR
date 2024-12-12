@@ -15,7 +15,11 @@ FurniAR is an innovative Android application that brings the power of Augmented 
 - **Persistent State**: Maintain app state across configuration changes for a seamless user experience.
 - **Intuitive Navigation**: Smooth in-app navigation using the Navigation component.
 
-[Uploading Screen_recording_20241212_232737.webm…]()
+
+
+https://github.com/user-attachments/assets/e3866010-52a4-480f-a55a-70c0bd5671a2
+
+
 
 ## Technologies Used
 
