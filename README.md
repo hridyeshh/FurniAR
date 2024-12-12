@@ -32,5 +32,3 @@ https://github.com/user-attachments/assets/6c2125ce-c137-4416-a07a-87fc853a6c75
   - **Storage**: Cloud storage for product images, 3D models, and user profile pictures.
 - **View Binding**: Efficient view inflation and management.
 - **Glide**: Fast and efficient image loading library.
-
-FurniAR leverages these cutting-edge technologies to provide a smooth, responsive, and immersive AR furniture shopping experience on Android devices.
