@@ -4,6 +4,8 @@
 
 FurniAR is an innovative Android application that brings the power of Augmented Reality (AR) to furniture shopping and interior design. With FurniAR, users can visualize furniture items in their own space before making a purchase, enhancing the shopping experience and reducing uncertainty in buying decisions.
 
+https://github.com/user-attachments/assets/6c2125ce-c137-4416-a07a-87fc853a6c75
+
 ## Features
 
 - **AR Furniture Visualization**: Place virtual 3D models of furniture in your real-world environment.
@@ -15,8 +17,6 @@ FurniAR is an innovative Android application that brings the power of Augmented 
 - **Persistent State**: Maintain app state across configuration changes for a seamless user experience.
 - **Intuitive Navigation**: Smooth in-app navigation using the Navigation component.
 
-
-https://github.com/user-attachments/assets/6c2125ce-c137-4416-a07a-87fc853a6c75
 
 
 ## Technologies Used
